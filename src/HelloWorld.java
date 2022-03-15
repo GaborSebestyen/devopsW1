@@ -15,6 +15,7 @@ public class HelloWorld {
     public static void main(String[] args) {
         HelloWorld first = new HelloWorld();
         HelloWorld second = new HelloWorld("Hello from me again");
+        HelloWorld third = new HelloWorld("Hello from me once again");
     }
 }
 
